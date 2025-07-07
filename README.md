@@ -2,6 +2,8 @@
 
 This project uses transfer learning to build an image classification model that identifies different dog breeds. It leverages pre-trained models to make the training process faster and more accurate.
 
+Build with Google Colab
+
 ## 📁 Project Structure
 
 Dog_Vision/
