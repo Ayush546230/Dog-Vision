@@ -45,7 +45,7 @@ Click below to open and run the notebook directly in Google Colab:
 - ✅ **Model Type:** Image Classification
 - 🔁 **Transfer Learning:** Yes (Pretrained model from TensorFlow Hub)
 - 📚 **Framework:** TensorFlow / Keras
-- 🎯 **Accuracy Achieved:** (Add here after training your model)
+- 🎯 **Accuracy Achieved:** 93%)
 
 ---
 
