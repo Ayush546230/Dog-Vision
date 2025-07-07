@@ -16,7 +16,7 @@
 
 ## ▶️ Run This Project on Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayushsrivastava07/dog-vision/blob/main/Dog_vision.ipynb)
+[![Open In Colab](https://colab.research.google.com/https://colab.research.google.com/github/Ayush546230/Amazon/blob/main/Dog_Vision.ipynb)
 
 Click the badge above to open and run the notebook in Google Colab. Make sure to upload the `dataset/` folder when prompted.
 
